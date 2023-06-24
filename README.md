@@ -13,4 +13,17 @@ The information on this data set was collected by its authors between March 31 2
 
 # Python
 
-The following python libraries were used for this task
+The following python libraries were used for this achievement:
+* pandas
+* numpy
+* matplotlib
+* matplotlib.pyplot
+* scipy
+* folikum
+* json
+* sklearn
+* pylab
+* statsmodel.api
+* warnings
+* adfuller
+* datetime
