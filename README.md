@@ -8,4 +8,4 @@ For every bank, it is important they maintain their customer base to have a succ
 
 # Data 
 
-The data of this data set was collected by its authors between March 31 2022 and April 30 2022.  Here is the link
+The information on this data set was collected by its authors between March 31 2022 and April 30 2022 from government sources..  Here is the link 
