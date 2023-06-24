@@ -27,3 +27,9 @@ The following python libraries were used for this achievement:
 * warnings
 * adfuller
 * datetime
+
+
+# Final Presentation
+
+Here is a link to the [Tableau Storyboard](https://public.tableau.com/app/profile/david.galdames/viz/CustomerChurnStoryboard/Customerchurn?publish=yes) for Bank_Customer_Churn.
+
