@@ -19,7 +19,7 @@ The following python libraries were used for this achievement:
 * matplotlib
 * matplotlib.pyplot
 * scipy
-* folikum
+* folium
 * json
 * sklearn
 * pylab
